@@ -8,5 +8,8 @@ public class AiResumeAnalyzerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AiResumeAnalyzerApplication.class, args);
+
+
+        //i made change here
     }
 }
